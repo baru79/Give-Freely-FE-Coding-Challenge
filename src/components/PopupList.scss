@@ -1,0 +1,19 @@
+.popup-list {
+  list-style-type: none;
+}
+
+.popup-list-item {
+  margin: 10px 0;
+  font-size: medium;
+  cursor: pointer;
+  &:hover {
+    color: #6ade17;
+  }
+}
+
+.popup-list-title {
+  font-size: medium;
+  text-align: center;
+  padding-bottom: 8px;
+  border-bottom: 1px solid lightgray;
+}

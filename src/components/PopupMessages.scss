@@ -1,0 +1,24 @@
+.popup-message {
+  list-style-type: none;
+  text-align: left;
+}
+
+.popup-message-title {
+  font-size: medium;
+  text-align: center;
+  padding-bottom: 8px;
+  border-bottom: 1px solid lightgray;
+}
+
+.popup-message-item {
+  margin: 10px 0;
+  font-size: medium;
+}
+
+.popup-message-button-back {
+  margin: 20px 0;
+  padding: 4px;
+  background-color: lightblue;
+  border-radius: 4px;
+  cursor: pointer;
+}

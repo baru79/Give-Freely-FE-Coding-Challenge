@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.popup {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  width: 200px;
+}
+
+.popup-message {
+  font-size: medium;
+  text-align: center;
+}
